@@ -1,6 +1,35 @@
 #  About Me:
-I am currently working on a RAG based agentic ai project thats helps the rag system for context optimization and token optimization with better refrencing <br>I am currently in my second year of engineering <br>Pursuing my degree in CSE(DS) <br>Vishwakarma institute of technolgy <br>
+ Data Science Student | Machine Learning Enthusiast
 
+I'm a data science student passionate about transforming raw data into actionable 
+insights through machine learning and statistical analysis. Currently building my 
+foundation in predictive modeling, data visualization, and ML algorithms while 
+working on hands-on projects that solve real-world problems.
+
+ What I Do:
+- Develop predictive models using supervised and unsupervised learning techniques
+- Create data visualizations and analytics dashboards to communicate insights
+- Build end-to-end machine learning pipelines from data preprocessing to deployment
+- Explore various ML algorithms and their applications across different domains
+
+ Technical Stack:
+- Languages: Python
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+- Machine Learning: Scikit-learn, TensorFlow/Keras
+- Tools: Jupyter Notebooks, Git, SQL
+
+ Currently Learning:
+- Advanced machine learning algorithms and model optimization
+- Feature engineering and data preprocessing techniques
+- MLOps practices and model deployment strategies
+- Deep learning fundamentals and neural network architectures
+
+ Focus Areas:
+Predictive Modeling • Data Visualization • Statistical Analysis • ML Algorithms
+
+ I'm always eager to collaborate on data science projects, learn from the community, 
+and contribute to open-source initiatives. Feel free to explore my repositories and 
+connect!
 
 ##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Paritosh.nevase) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ParitoshNevase) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Paritoshnevase22@gmail.com) 
